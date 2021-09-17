@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alexjj.micro.blog/2021/09/17/hmm-my-tiddlywiki.html",
+				
+				"content_html": "<p>Hmm my tiddlywiki stopped adding the created field to new tiddlers…which then breaks everything 🤨</p>\n",
+				"content_text": "Hmm my tiddlywiki stopped adding the created field to new tiddlers…which then breaks everything 🤨\n",
+				"date_published": "2021-09-17T20:49:13+01:00",
+				"url": "https://micro.alexjj.com/2021/09/17/hmm-my-tiddlywiki.html"
+			},
+			{
 				"id": "http://alexjj.micro.blog/2021/08/31/cheap-skate-film.html",
 				
 				"content_html": "<p>Cheap skate film day.</p>\n\n<p><img src=\"uploads/2021/84d5732beb.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
