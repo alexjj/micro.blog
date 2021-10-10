@@ -97,8 +97,8 @@
 			{
 				"id": "http://alexjj.micro.blog/2020/06/12/my-new-writing.html",
 				
-				"content_html": "<p>My new writing buddy - Olivetti Lettera 32. Came from a charity auction and in great condition. Might need a new ribbon but current one works if I strike the keys with confidence.</p>\n\n<p>The case is a little musty and the zip is broken. Suppose I could try and clean it.</p>\n\n<p><img src=\"uploads/2020/b185a83e44.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My new writing buddy - Olivetti Lettera 32. Came from a charity auction and in great condition. Might need a new ribbon but current one works if I strike the keys with confidence. \n\nThe case is a little musty and the zip is broken. Suppose I could try and clean it. \n\n<img src=\"uploads/2020/b185a83e44.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My new writing buddy - Olivetti Lettera 32. Came from a charity auction and in great condition. Might need a new ribbon but current one works if I strike the keys with confidence.</p>\n\n<p>The case is a little musty and the zip is broken. Suppose I could try and clean it.</p>\n\n<p><img src=\"https://alexjj.micro.blog/uploads/2020/b185a83e44.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My new writing buddy - Olivetti Lettera 32. Came from a charity auction and in great condition. Might need a new ribbon but current one works if I strike the keys with confidence. \n\nThe case is a little musty and the zip is broken. Suppose I could try and clean it. \n\n<img src=\"https://alexjj.micro.blog/uploads/2020/b185a83e44.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-06-12T18:51:53+01:00",
 				"url": "https://micro.alexjj.com/2020/06/12/my-new-writing.html"
 			},
