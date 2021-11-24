@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alexjj.micro.blog/2021/11/24/drummer-is-awesome.html",
+				
+				"content_html": "<p>Drummer is awesome, so I made <a href=\"https://github.com/alexjj/awesome-drummer\">Awesome Drummer</a>! Come contribute! 🥁</p>\n",
+				"content_text": "Drummer is awesome, so I made [Awesome Drummer](https://github.com/alexjj/awesome-drummer)! Come contribute! 🥁\n",
+				"date_published": "2021-11-24T17:41:07+00:00",
+				"url": "https://micro.alexjj.com/2021/11/24/drummer-is-awesome.html"
+			},
+			{
 				"id": "http://alexjj.micro.blog/2021/10/19/fuji-mm-f.html",
 				
 				"content_html": "<p>Fuji 18mm f/2 arrived. They old presentation boxes and metal hoods are lovely. It also focuses fast enough for my kids running around so, as usual, the internet exaggerates any issues.</p>\n\n<p><img src=\"uploads/2021/ac1d9c706a.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/18324268bb.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
@@ -113,8 +121,8 @@
 			{
 				"id": "http://alexjj.micro.blog/2020/06/12/my-new-writing.html",
 				
-				"content_html": "<p>My new writing buddy - Olivetti Lettera 32. Came from a charity auction and in great condition. Might need a new ribbon but current one works if I strike the keys with confidence.</p>\n\n<p>The case is a little musty and the zip is broken. Suppose I could try and clean it.</p>\n\n<p><img src=\"https://alexjj.micro.blog/uploads/2020/b185a83e44.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My new writing buddy - Olivetti Lettera 32. Came from a charity auction and in great condition. Might need a new ribbon but current one works if I strike the keys with confidence. \n\nThe case is a little musty and the zip is broken. Suppose I could try and clean it. \n\n<img src=\"https://alexjj.micro.blog/uploads/2020/b185a83e44.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My new writing buddy - Olivetti Lettera 32. Came from a charity auction and in great condition. Might need a new ribbon but current one works if I strike the keys with confidence.</p>\n\n<p>The case is a little musty and the zip is broken. Suppose I could try and clean it.</p>\n\n<p><img src=\"uploads/2020/b185a83e44.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My new writing buddy - Olivetti Lettera 32. Came from a charity auction and in great condition. Might need a new ribbon but current one works if I strike the keys with confidence. \n\nThe case is a little musty and the zip is broken. Suppose I could try and clean it. \n\n<img src=\"uploads/2020/b185a83e44.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-06-12T17:51:53+00:00",
 				"url": "https://micro.alexjj.com/2020/06/12/my-new-writing.html"
 			},
