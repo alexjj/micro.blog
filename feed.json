@@ -49,8 +49,8 @@
 			{
 				"id": "http://alexjj.micro.blog/2021/08/22/i-havent-used.html",
 				
-				"content_html": "<p>I haven’t used this pen in years. Maybe 10+. Always preferred the convenience of cartridges. Been using it everyday for work the past month and it’s lovely. 🖋</p>\n\n<p><img src=\"uploads/2021/719d844da4.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/38030c07e5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I haven’t used this pen in years. Maybe 10+. Always preferred the convenience of cartridges. Been using it everyday for work the past month and it’s lovely. 🖋\n\n<img src=\"uploads/2021/719d844da4.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/38030c07e5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I haven’t used this pen in years. Maybe 10+. Always preferred the convenience of cartridges. Been using it everyday for work the past month and it’s lovely. 🖋</p>\n\n<p><img src=\"http://micro.alexjj.com/uploads/2021/719d844da4.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://micro.alexjj.com/uploads/2021/38030c07e5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I haven’t used this pen in years. Maybe 10+. Always preferred the convenience of cartridges. Been using it everyday for work the past month and it’s lovely. 🖋\n\n<img src=\"http://micro.alexjj.com/uploads/2021/719d844da4.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"http://micro.alexjj.com/uploads/2021/38030c07e5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-22T12:49:02+00:00",
 				"url": "https://micro.alexjj.com/2021/08/22/i-havent-used.html"
 			},
@@ -121,8 +121,8 @@
 			{
 				"id": "http://alexjj.micro.blog/2020/06/12/my-new-writing.html",
 				
-				"content_html": "<p>My new writing buddy - Olivetti Lettera 32. Came from a charity auction and in great condition. Might need a new ribbon but current one works if I strike the keys with confidence.</p>\n\n<p>The case is a little musty and the zip is broken. Suppose I could try and clean it.</p>\n\n<p><img src=\"uploads/2020/b185a83e44.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My new writing buddy - Olivetti Lettera 32. Came from a charity auction and in great condition. Might need a new ribbon but current one works if I strike the keys with confidence. \n\nThe case is a little musty and the zip is broken. Suppose I could try and clean it. \n\n<img src=\"uploads/2020/b185a83e44.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My new writing buddy - Olivetti Lettera 32. Came from a charity auction and in great condition. Might need a new ribbon but current one works if I strike the keys with confidence.</p>\n\n<p>The case is a little musty and the zip is broken. Suppose I could try and clean it.</p>\n\n<p><img src=\"https://alexjj.micro.blog/uploads/2020/b185a83e44.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My new writing buddy - Olivetti Lettera 32. Came from a charity auction and in great condition. Might need a new ribbon but current one works if I strike the keys with confidence. \n\nThe case is a little musty and the zip is broken. Suppose I could try and clean it. \n\n<img src=\"https://alexjj.micro.blog/uploads/2020/b185a83e44.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-06-12T17:51:53+00:00",
 				"url": "https://micro.alexjj.com/2020/06/12/my-new-writing.html"
 			},
