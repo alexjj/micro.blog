@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alexjj.micro.blog/2022/05/11/the-parts-are.html",
+				
+				"content_html": "<p>The parts are here…just waiting on the PCB 🦀🧹</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The parts are here…just waiting on the PCB 🦀🧹\n\n<img src=\"uploads/2022/60b9dcae83.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-11T19:43:14+01:00",
+				"url": "https://micro.alexjj.com/2022/05/11/the-parts-are.html"
+			},
+			{
 				"id": "http://alexjj.micro.blog/2022/05/08/time-to-build.html",
 				
 				"content_html": "<p>Time to build a new keyboard! Ordered my PCB from <a href=\"https://jlcpcb.com/\">jlcpcb</a>. 🦀🧹</p>\n<!-- raw HTML omitted -->\n",
